@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tokelo97M
+- 👀 I’m interested in adeqatly devleop using the Angular, React and ASP.NET Core
+- 🌱 I’m currently learning ASP.Net Core
+- 💞️ I’m looking to collaborate on any Angular, React and ASP.Net project using Typescript, Javascript or C#
+- 📫 makwalemoagi7@gmail.com
