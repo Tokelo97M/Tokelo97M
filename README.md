@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Tokelo97M
-- 👀 I’m interested in adequately devleop using the Angular, React and ASP.NET Core
-- 🌱 I’m currently learning ASP.Net Core
-- 💞️ I’m looking to collaborate on any Angular, React and ASP.Net project using Typescript, Javascript or C#
+Welcome to my Page!!!!!!
+
+I'm a Full Stack Developer with several years of experience coding in technologies such as JavaScript, TypeScript and C#
+I am very proficient with frameworks like Angualar, React and ASP.Net Core 
+Together with back-end technologies like MSQL and MangoDB
+
 - 📫 makwalemoagi7@gmail.com
